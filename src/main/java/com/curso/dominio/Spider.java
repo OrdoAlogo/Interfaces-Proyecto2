@@ -20,7 +20,7 @@ public class Spider extends Animal implements Serializable {
 	@Override
 	public String alimenta() {
 		// TODO Auto-generated method stub
-		return super.alimenta();
+		return "";
 	}
 
 

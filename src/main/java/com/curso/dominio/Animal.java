@@ -18,7 +18,5 @@ public abstract class Animal implements Serializable{
 		System.out.println("Camina a "+ this.legs+" patas");
 	}
 	
-	public  String alimenta() {
-		return "";
-	}
+	public abstract String alimenta();
 }

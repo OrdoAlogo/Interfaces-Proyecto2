@@ -39,7 +39,7 @@ public class Cat extends Animal implements Pet, Serializable {
 	@Override
 	public String alimenta() {
 		// TODO Auto-generated method stub
-		return super.alimenta()+" Me gustan la sardinas";
+		return " Me gustan la sardinas";
 	}
 
 	
